@@ -1,11 +1,6 @@
 # PyTorch Image Classification using CNN on CIFAR-10
 
-.
-├── model/
-│   ├── train.py        # Training script for CNN model in PyTorch
-│   ├── model.py        # CNN model definition
-│   └── resnet.py       # ResNet model for transfer learning
-├── requirements.txt    # Required libraries
+
 
 This project demonstrates image classification using Convolutional Neural Networks (CNNs) in PyTorch. It includes both a custom CNN model and an implementation using transfer learning with a pre-trained ResNet model.
 
